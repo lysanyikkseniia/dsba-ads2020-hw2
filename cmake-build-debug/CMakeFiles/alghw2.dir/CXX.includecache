@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ksenialysanuk/Documents/coding/alghw2/main.cpp
+prim.h
+/Users/ksenialysanuk/Documents/coding/alghw2/prim.h
+
+/Users/ksenialysanuk/Documents/coding/alghw2/prim.cpp
+prim.h
+/Users/ksenialysanuk/Documents/coding/alghw2/prim.h
+
+/Users/ksenialysanuk/Documents/coding/alghw2/prim.h
+iostream
+-
+vector
+-
+cmath
+-
+
